@@ -1,3 +1,3 @@
 # DeliveryApp
-Una app casi completamente funcional de delivery. Client-View
+A delivery app almost functional for the client. Client-View
 https://app.flutterflow.io/share/servido-va4nw8
